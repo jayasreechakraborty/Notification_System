@@ -1,4 +1,4 @@
-# 🔔 Notification Service
+#  Notification Service
 
 A scalable **multi-channel notification system** built with **FastAPI**, **RabbitMQ**, and **SQLAlchemy**. The service processes notifications asynchronously and supports **Email, SMS, and In-App** notifications through a unified REST API.
 
